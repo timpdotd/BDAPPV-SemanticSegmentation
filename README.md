@@ -1,4 +1,4 @@
-# Semantic segmentation of solar panels using Google Earth images
+# Semantic Segmentation of Solar Panels from Google Earth Imagery Using U-Net
 
 ## Description
 
